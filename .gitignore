@@ -1,6 +1,7 @@
 #env
 /config/.env.local
 /config/.env.prod
+/config/.env.dev
 
 # compiled output
 /dist
